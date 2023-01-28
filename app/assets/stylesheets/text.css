@@ -3,7 +3,8 @@ body {
   font-family: 'Trebuchet MS', sans-serif;
 }
 
-a, button {
+a,
+button {
   color: #DC2F02;
 }
 
@@ -11,7 +12,8 @@ a, button {
   font-size: 175%;
 }
 
-.title-md, .title {
+.title-md,
+.title {
   font-size: 150%;
 }
 
@@ -25,6 +27,10 @@ a, button {
 
 .text-grey {
   color: #a0a0a0;
+}
+
+.text-red {
+  color: #d00000;
 }
 
 .text-bold {
